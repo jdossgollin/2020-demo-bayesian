@@ -1,0 +1,19 @@
+# James Doss-Gollin
+name: lima16
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6 # recent version of python
+  - arviz
+  - cython
+  - ipython # for interactive kernel
+  - jupyter # for notebooks
+  - matplotlib # plots
+  - numpy # numerical computing
+  - pandas # work with data frames
+  - pystan
+  - seaborn # statistical visualizations
+  - six # used for cross-platform dependence
+  - tqdm # progress bar
+  - xarray # because I use it for everythin
