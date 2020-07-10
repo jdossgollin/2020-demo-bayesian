@@ -14,7 +14,7 @@ If you present this demo I'd appreciate a shout-out (email, Twitter, whatever is
 
 ## To examine
 
-Go to the [Jupyter notebook](bayesian-modeling-demo) -- it renders natively on GitHub
+Go to the [Jupyter notebook](bayesian-modeling-demo.ipynb) -- it renders natively on GitHub
 
 ## To run
 
