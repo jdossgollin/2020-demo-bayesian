@@ -1,2 +1,3 @@
-*.feather
+*.nc
 *.pkl
+.ipynb_checkpoints/*

@@ -4,6 +4,9 @@ An introduction to Bayesian thinking with a focus on applications in for hydrolo
 This builds on the model from Lima et al (2016) to show why Bayesian modeling is useful and how problems can be framed.
 The analysis is high-level and the still needs merits further checking, testing, and validation.
 
+The target audience of this demo has some understanding of probability and statistics and the demonstration is designed to be presented in about 30 minutes.
+These materials could be modified to include more details and derivations, to add more diagnostics, or to be abbreviated.
+
 ## To run
 
 This assumes introductory understanding of python, conda, and git
